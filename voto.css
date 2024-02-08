@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    color: black;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+input,button{
+    background-color:antiquewhite;
+    color:rgb(0, 0, 0);
+    border-radius: 8px;
+   
+}
+
+input::placeholder{
+    color: black;
+   
+}
+
+button:hover{
+    background-color:cadetblue;
+   
+}
+
+button{
+   cursor: pointer;
+   
+}
